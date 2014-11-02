@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.1920.0.1920.1080" x="3321" y="250" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="3094" y="201" />
+    <location key="OptionsEditor.1920.0.1920.1080" x="2275" y="110" />
+    <size key="FileChooserDialogImpl.1920.0.1920.1080" width="444" height="514" />
+    <size key="OptionsEditor.1920.0.1920.1080" width="1244" height="882" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="idea.dark.laf.classname" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.6" value="18" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="installation.uid" value="19c27235-6f2b-44eb-9a3b-81b562e5cf3c" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/ruby/mines" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="494539" />
+    <property name="file.colors.enable.tests" value="2a3b2c" />
+    <property name="Non-Project Files" value="494539" />
+    <property name="Tests" value="2a3b2c" />
+    <property name="ruby.sdk.configurable.top.splitter" value="0.5" />
+    <property name="ruby.sdk.configurable.main.splitter" value="0.5" />
+  </component>
+</application>
+

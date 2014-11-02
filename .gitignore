@@ -1,0 +1,15 @@
+componentVersions
+inspection
+plugins
+part
+quicklists
+rubymine60.key
+tasks
+
+/options/appComponentVersions.xml
+/options/applicationLibraries.xml
+/options/feature.usage.statistics.xml
+/options/jdk.table.xml
+/options/gemmanager.xml
+/options/statistics.application.usages.xml
+/port
