@@ -3,7 +3,7 @@
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.1920.0.1920.1080" x="3321" y="250" />
     <location key="FileChooserDialogImpl.1920.0.1920.1080" x="3094" y="201" />
-    <location key="OptionsEditor.1920.0.1920.1080" x="2275" y="110" />
+    <location key="OptionsEditor.1920.0.1920.1080" x="2245" y="80" />
     <size key="FileChooserDialogImpl.1920.0.1920.1080" width="444" height="514" />
     <size key="OptionsEditor.1920.0.1920.1080" width="1244" height="882" />
   </component>
@@ -27,6 +27,9 @@
     <property name="Tests" value="2a3b2c" />
     <property name="ruby.sdk.configurable.top.splitter" value="0.5" />
     <property name="ruby.sdk.configurable.main.splitter" value="0.5" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="KEYMAP" value="settings" />
   </component>
 </application>
 
